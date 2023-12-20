@@ -83,4 +83,8 @@ header {
     .blue-cta-btn{
         margin-bottom: 10px;
     }
+
+    .navbar-brand{
+        font-size: 30px;
+    }
   }
